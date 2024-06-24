@@ -1,5 +1,5 @@
 redis:6.2.8
-openjdk:11-jdk-alpine
-openjdk:17-jdk-alpine
+openjdk:11
+openjdk:17
 xuxueli/xxl-job-admin:2.2.0
 xuxueli/xxl-job-admin:2.4.0
