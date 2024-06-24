@@ -1,10 +1,5 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 redis:6.2.8
-openjdk:11.0.21
-openjdk:17.0.11
+openjdk:11-jdk-alpine
+openjdk:17-jdk-alpine
 xuxueli/xxl-job-admin:2.2.0
 xuxueli/xxl-job-admin:2.4.0
