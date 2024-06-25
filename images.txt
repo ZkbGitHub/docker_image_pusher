@@ -1,5 +1,3 @@
-redis:6.2.8
-openjdk:11
-openjdk:17
-xuxueli/xxl-job-admin:2.2.0
-xuxueli/xxl-job-admin:2.4.0
+redis:6.0.9
+seataio/seata-server:1.4.2
+
