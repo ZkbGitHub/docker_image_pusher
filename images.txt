@@ -1,3 +1,5 @@
-centos:7
-centos:latest
+apache/skywalking-oap-server:9.3.0
+apache/skywalking-ui:9.3.0
+elasticsearch:7.9.0
+kibana:7.9.0
 
