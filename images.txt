@@ -9,3 +9,5 @@ rabbitmq:latest
 #wurstmeister/kafka:2.13-2.8.1
 #zookeeper:3.8
 dushixiang/kafka-map:latest
+registry:2
+registry:1
