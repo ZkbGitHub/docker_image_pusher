@@ -11,4 +11,6 @@
 #dushixiang/kafka-map:latest
 #registry:2
 #registry:1
-centos:8
+#centos:8
+node:20.11.0
+node:22.13.1
