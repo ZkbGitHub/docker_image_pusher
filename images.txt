@@ -13,5 +13,5 @@
 #registry:1
 #centos:8
 #node:20.11.0
-#node:22.13.1
-keking/kkfileview-base:4.4.0
+node:22.13.1
+#keking/kkfileview-base:4.4.0
