@@ -15,4 +15,6 @@
 #node:20.11.0
 #node:22.13.1
 #keking/kkfileview:latest
-keking/kkfileview:4.4.0-beta
+#keking/kkfileview:4.4.0-beta
+mafeicnnui/dbops:3.0
+mafeicnnui/easebase:1.0
