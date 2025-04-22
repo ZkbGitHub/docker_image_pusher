@@ -16,5 +16,6 @@
 #node:22.13.1
 #keking/kkfileview:latest
 #keking/kkfileview:4.4.0-beta
-mafeicnnui/dbops:3.0
-mafeicnnui/easebase:1.0
+#mafeicnnui/dbops:3.0
+#mafeicnnui/easebase:1.0
+harryzhang6/openwrt:latest
