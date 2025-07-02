@@ -18,4 +18,9 @@
 #keking/kkfileview:4.4.0-beta
 #mafeicnnui/dbops:3.0
 #mafeicnnui/easebase:1.0
-harryzhang6/openwrt:latest
+#harryzhang6/openwrt:latest
+apache/rocketmq:5.1.0
+apache/rocketmq:5.2.0
+apache/rocketmq:5.3.2
+apache/rocketmq:latest
+apacherocketmq/rocketmq-dashboard:latest
