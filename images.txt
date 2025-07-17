@@ -28,5 +28,8 @@
 #node:16.20.2
 #node:18.20.8
 #node:latest
-unifreq/openwrt-aarch64:latest
-hibuddies/openwrt-aarch64:latest
+#unifreq/openwrt-aarch64:latest
+#hibuddies/openwrt-aarch64:latest
+bellsoft/liberica-openjdk-debian:8
+adoptopenjdk/openjdk8:jdk8u292-b10-debian
+fabric8/java-jdk8:1.5.1
