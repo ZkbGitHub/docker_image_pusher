@@ -30,6 +30,7 @@
 #node:latest
 #unifreq/openwrt-aarch64:latest
 #hibuddies/openwrt-aarch64:latest
-bellsoft/liberica-openjdk-debian:8
-adoptopenjdk/openjdk8:jdk8u292-b10-debian
-fabric8/java-jdk8:1.5.1
+#bellsoft/liberica-openjdk-debian:8
+#adoptopenjdk/openjdk8:jdk8u292-b10-debian
+#fabric8/java-jdk8:1.5.1
+registry.k8s.io/metrics-server/metrics-server:v0.8.0
