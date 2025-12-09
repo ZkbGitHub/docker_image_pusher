@@ -34,4 +34,5 @@
 #adoptopenjdk/openjdk8:jdk8u292-b10-debian
 #fabric8/java-jdk8:1.5.1
 #registry.k8s.io/metrics-server/metrics-server:v0.8.0
-node:24.10.0
+#node:24.10.0
+prom/prometheus
