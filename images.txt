@@ -38,5 +38,7 @@
 #prom/prometheus:v3.8.0
 #prom/prometheus:v3.7.3
 #prom/prometheus:v3.7.0
-he0119/smart-home:latest
-he0119/postgres
+#he0119/smart-home:latest
+postgres:16.11-bookworm
+postgres:17-bookworm
+postgres:15.15-bookworm
