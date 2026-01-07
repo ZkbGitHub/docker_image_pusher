@@ -39,6 +39,9 @@
 #prom/prometheus:v3.7.3
 #prom/prometheus:v3.7.0
 #he0119/smart-home:latest
-postgres:16.11-bookworm
-postgres:17-bookworm
-postgres:15.15-bookworm
+#postgres:16.11-bookworm
+#postgres:17-bookworm
+#postgres:15.15-bookworm
+lizhenliang/kube-state-metrics:v1.8.0 
+lizhenliang/addon-resizer:1.8.6
+jimmidyson/configmap-reload:v0.7.0-amd64
