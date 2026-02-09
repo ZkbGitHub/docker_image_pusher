@@ -46,4 +46,6 @@
 #lizhenliang/addon-resizer:1.8.6
 #jimmidyson/configmap-reload:v0.7.0-amd64
 #alexcld/alertgo:v4
-vbkunin/itop:3.2.2
+#vbkunin/itop:3.2.2
+dyclouds/opshub-api:latest
+dyclouds/opshub-web:latest
