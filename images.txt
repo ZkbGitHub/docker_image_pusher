@@ -47,5 +47,8 @@
 #jimmidyson/configmap-reload:v0.7.0-amd64
 #alexcld/alertgo:v4
 #vbkunin/itop:3.2.2
-dyclouds/opshub-api:latest
-dyclouds/opshub-web:latest
+#dyclouds/opshub-api:latest
+#dyclouds/opshub-web:latest
+eclipse-mosquitto:2.1.2
+eclipse-mosquitto:latest
+emqx/emqx-enterprise:6.2.2
