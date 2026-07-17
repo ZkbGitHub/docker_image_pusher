@@ -49,6 +49,5 @@
 #vbkunin/itop:3.2.2
 #dyclouds/opshub-api:latest
 #dyclouds/opshub-web:latest
-eclipse-mosquitto:2.1.2
 eclipse-mosquitto:latest
-emqx/emqx-enterprise:6.2.2
+emqx/emqx-enterprise:latest
